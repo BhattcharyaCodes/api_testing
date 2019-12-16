@@ -1,2 +1,5 @@
 # api_testing
 automating the api testing where _no_authentication is used
+need to implement 2 methods of testing the api:
+1) using an api mock
+2) using the externally exposed api info
